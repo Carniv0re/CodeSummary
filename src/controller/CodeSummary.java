@@ -3,7 +3,6 @@ package controller;
 import java.io.File;
 import javax.swing.JTree;
 
-import model.FileParser;
 import model.FileSummary;
 import model.PackageSummary;
 import view.CodeSummaryGUI;
